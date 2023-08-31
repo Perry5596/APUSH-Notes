@@ -60,3 +60,36 @@ The Plymouth and Massachusetts Bay colonies were very close to each other.
 1. Lord Baltimore, and later his son, set out to make the colony a safe haven for Catholics
 1. **1649 Act of Toleration**: First colonial legislation granting religious freedom to all Christians
 1. **Protestant Revolt**: Unrest between Protestant settlers and Catholic settlers in Maryland erupted into a civil war. The Protestants were victorious and the Act of Toleration was repealed; Catholics lost the right to vote in elections for the Marlyand assembly.
+
+## The Chesapeake Colonies (Maryland and Virginia)
+
+### Early Labor in the Chesapeake Colonies
+
+1. Landowners in both Virginia and Maryland began cultivating tobacco in large quantities which lead to large demand for laborers
+1. Indentured Servants:
+   - Landowners would pay for young people's journey from Europe in exchange for a contract if labor for 4-7 years
+1. Headright System:
+   - Virginia offered land to attract immigrants
+   - Offer 50 acres to each immigrant who paid their own passage and 50 acres to each plantation owner who paid for an immigrants passage
+1. Slavery:
+   - 1619, first Africans brought to Virginia
+   - By the 1660s, laws were enacted that discriminated based on skin color
+
+### Bacon's Rebellion
+
+Sir William Berkely, the royal governor of Virginia, failed to protect small farmers from Indian attacks. Small farmers such as Nathaniel Bacon grew increasingly angry that the large plantation owners were favored by Berkeley. In 1676, Bacon raised a small army and conducted several raids and massacres. Bacon's men were fairly successful and even burned the Jamestown settlement. Shortly thereafter, Bacon died of dysentery and the rebel army collapsed.
+
+The incident highlighted two long standing trends:
+
+- Tension between wealthy landownders and small farmers
+- Colonial resistance to royal control
+
+## The Last Colony, Georgia - 1732
+
+1. 1732, the thirteenth colony recieved a charter and direct funding from London
+   - Britain wanted a buffer between profitable South Carolina and Spanish Florida
+   - Prisions in England were full of people who owed debtsm in order to relieve the overcrowding in jails, debtors were sent to start new lives in the colony
+1. Led by James Oglethorpe, Savannah was founded in 1733
+1. Oglethorpe's venture was unsuccessful and Geogria became a royal colony in 1752
+1. Eventually, Georgia adopted the plantation system of their neighboring South Carolina
+1. Will eventually become home to a bunch of `loyalists` (People still loyal to England and people that are from England)
