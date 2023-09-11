@@ -93,3 +93,49 @@ The incident highlighted two long standing trends:
 1. Oglethorpe's venture was unsuccessful and Geogria became a royal colony in 1752
 1. Eventually, Georgia adopted the plantation system of their neighboring South Carolina
 1. Will eventually become home to a bunch of `loyalists` (People still loyal to England and people that are from England)
+
+## Colonial Economies
+
+1. New England:
+   - Rocky soil and long winters meant mostly small subistence farming
+   - Logging, shipbuilding, fishing, trading, and rum-distilling
+1. Middle Colonies:
+   - Rich soil produced an abundace of wheat and corn
+   - Indentured servants and hired laborers were common
+   - Small-scale manufacturing developed
+   - Trade led to the growth of Philadelphia and New York
+1. Southern Colonies:
+   - Most people lived on small subsistence farms
+   - Few were able to afford large plantations with slave labor
+   - Chesapeake: tobacco and timber
+   - S. Carolina and Georgia: rice and indigo
+
+## Religion in the Colonies
+
+1. The overwhelming majority of the colonists belonged to various protestant churches:
+   - Presbyterian, Anglican, Lutheran, Quaker, Baptist, Methodist, ect.
+1. **The Great Awakening 1730s-1740s**
+   - Movement of religious revival among the masses of colonists
+   - Lead by pastors Jonathan Edwards and George Whitefield
+1. Impacts of the Great Awakening
+   - Ministers lost some authority as people began to read the Bible at home
+   - Churces split into many denominations
+   - Inspired more democratic ideals and a shift away from authority of politicians.
+
+## COlonial Culture
+
+1. Until the 1700s, most colonist were preoccupied with survival and didn't have time for leisure activities like creating art or literature
+1. Architecture:
+   - Imitaded Georgian Style of London
+1. Literature:
+   - Early colonial literature centered around religion during the Great Awakening
+   - Poetry of Phillis Wheatley was noteworthy because of its high quality and her triumph over slavery
+   - Benjamin Franklin was the most popular writer of the era
+
+### The Zenger Case
+
+1735, Peter Zenger, a journalist in New York and was put on trial for openly criticizing New York's royal governor. His lawyer argued that what he had written was true. Regardless, according to English law, injuring the governor's reputation was a crime. The jury ignored English law and acquitted Zenger. While this didn'y ensure freedom of the press, it encouraged the newspapers to be truthful in their work.
+
+## Enlightenment
+
+The enlightenment was an intellectual movement in Europe that emphasized reason, individualism, and scientific thought. This movement had a profound impact on American thinking. The writings of **John Locke** argued that there are "natural laws" or rights that shojuld be enjoyed by every human. These ideas would provide a basis for the American Revolution and eventually the US Constitution.
