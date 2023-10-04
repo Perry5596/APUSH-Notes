@@ -70,3 +70,114 @@ Angered by the Boston Tea Party, Parliament retaliated by passing a series of le
 1. `Massachusetts Government Act` -Reduced the power of the assembly and increased the power of the royal governor.
 1. `Administration of Justice Act` -Allowed for British officials accused of crimes to be tried for them in England, not the colonies.
 1. `Expansion of the Quartering Act` -Troops would be quartered in private homes in all colonies.
+
+# The American Revolution and Confederation - 1774-1787
+
+## The Revolutionary War Within
+
+### Patriots
+
+1. Largest number came from New England and Virginia
+1. Usually formed local militias and only served for short periods of time before they had to return to their farms
+1. Chronically short of supplies and equipment and rarely paid
+1. Although initially denied, African Americans were offered freedom in return for service. Approximately 5000 African Americans served in the Patriot Army
+
+### Loyalists
+
+1. Also called Tories after the majority party in Parliament
+1. Nearly 60,000 Tories fought alongside the British army during the Revolution
+1. Majority of loyalists were from New York, New Jersey, and Georgia
+1. Loyalists tended to be wealthier and more conservative than the Patriots
+1. Often members of the same family joined opposite sides; Ben Franklin’s son was a loyalist
+
+## The First Continental Congress
+
+- September 1774: delegates from every colony, except Georgia, met at a convention in Philadelphia to discuss how to address the Intolerable Acts; their intention was not yet independence. The outcome:
+  1.  Suffolk Resolves: called for the immediate repeal of the Intolerable Acts and for the colonies to boycott all British goods and to begin making military preparations
+  1.  Declaration and Resolves: a petition that asked the king to restore colonial rights
+  1.  Continental Association: created an organization to enforce the boycotts called for by the Suffolk Resolves
+  1.  Lastly, they decided that if the issues were not resolved, they would meet again in May of 1775
+
+## Fighting Begins...
+
+- The king angrily dismissed the petitions of the First Continental Congress and sent more troops to Massachusetts to put down any further rebellion
+
+- Lexington and Concord: April 18, 1775:
+  1.  The British troops marched towards Concord to seize colonial military supplies
+  1.  After being warned by Paul Revere during his famous midnight ride, the colonial militia (or Minutemen) assembled to resist in Lexington
+  1.  Under heavy British fire, the colonists were forced to retreat
+  1.  The British continued their march into Concord where they destroyed colonial military supplies
+  1.  On their march back to Boston, the British were attacked by hundreds of Minutemen and suffered 250 casualties
+
+### Minutemen
+
+Although sometimes used interchangeably, there was a notable difference between the colonial militia and Minutemen. The militias were men who took up arms to defend their towns. Whereas, the Minutemen were a more elite group of men who were typically the best troops of their militia. It was not uncommon for colonial militia to include older men but the Minutemen were young, enthusiastic, and physically fit. The Minutemen were called this because it was believed that they could be ready for battle at a minute’s notice.
+
+## The Second Continental Congress
+
+- Shortly after Lexington and Concord, the Congress met again in Philadelphia in May 1775. The delegates were torn. New England colonies were eager for independence but the Middle Colonies wanted to restore the relationship with the crown. The outcome:
+  1.  The delegates called on colonies to provide troops for the continental army and appointed George Washington the commander-in-chief
+  1.  Olive Branch Petition: the Congress’s last attempt at peace when they sent a document to King George III asking him to protect colonial rights; King George dismissed the document and declared the colonies in rebellion
+
+## Common Sense, Thomas Paine, 1776
+
+In January 1776, a pamphlet was published by Thomas Paine. In the pamphlet, Paine argued that colonial independence from Great Britain was essential. Paine asserted that remaining under British control was contrary to common sense because it was illogical for a nation of that size to be ruled by a distant, much smaller, mother country. The pamphlet was widely circulated through the colonies and contributed to the changing public opinion of independence.
+
+## The Declaration of Independence
+
+- After meeting for over a year in Philadelphia, the Second Continental Congress started to shift to favor independence rather than reconciliation.
+- Richard Henry Lee of Virginia proposed a resolution calling for independence
+  1.  the congress adopted the resolution on July 2
+  1.  Thomas Jefferson drafted a document outlining the grievances of against King George III
+  1.  The Declaration of Independence was adopted on July 4, 1776
+
+## The Early Revolutionary War
+
+- Initially, the revolutionary army suffered numerous losses; they were poorly equipped and poorly trained
+
+- By 1777, the British had occupied New York and Philadelphia
+
+- TURNING POINT: Victory at Saratoga
+  1.  the Patriot army attacked the British at Saratoga and forced them to surrender
+  1.  When news of the American victory reached France, King Louis XVI decided to openly ally with the patriots
+  1.  This diplomatic outcome was far more beneficial than the military victory
+
+## Victory For The Patriots
+
+- Yorktown 1781: the last major battle of the war fought in Yorktown, Virginia; with the help of the French, Washington’s army forced a surrender from British General Charles Cornwallis
+
+- The war had become unpopular in Great Britain because of the damage to the economy and a change in political party led to a full surrender
+
+- Treaty of Paris 1783:
+  1.  Britain would recognize the United States as an independent nation
+  1.  The Mississippi River would be the US western boundary
+  1.  Americans would have fishing rights off of the Canadian coast
+  1.  Americans would pay debts owed to British merchants
+
+## We Won! Now What?
+
+- The states, having just successfully rebelled against a strong centralized government, each wanted the autonomy to govern themselves
+
+- By 1777, ten of the former colonies had written their own state constitutions
+
+- THE ARTICLES OF CONFEDERATION:
+
+  1.  The first written document that created a very weak central government
+
+  1.  consisted of just one unicameral legislature
+
+  1.  each state was given one vote with 9/13 required to pass laws
+
+## The Problems with the Articles - 1781-1787
+
+- Financial
+
+The Articles did not grant a power to tax; there was no national income and there was no national currency. War debts were unpaid.
+
+- Foreign
+
+European nations had little respect for a new nation that could neither pay debts or unite under one government. States had their own militia but there was no national army.
+
+- Domestic
+
+The Articles did not grant power to regulate trade; states were in competition with each other. There was no way to enforce laws or settle disputes between states.
