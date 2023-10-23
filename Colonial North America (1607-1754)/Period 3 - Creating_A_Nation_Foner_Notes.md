@@ -181,3 +181,148 @@ European nations had little respect for a new nation that could neither pay debt
 - Domestic
 
 The Articles did not grant power to regulate trade; states were in competition with each other. There was no way to enforce laws or settle disputes between states.
+
+## Ammendments
+
+Remember ammendments 1, and 10 for the test.
+
+Bill of Rights:
+
+1. The first 10 ammendments for the peoples rights.
+
+The First Ammendment:
+
+1. Freedom of Speech
+1. Freedom of Press
+1. Freedom of Assembly
+1. Freedom of Religion
+1. Freedom of Petition
+
+The Tenth Ammendment:
+
+1. Powers not listed here are reserved for the states.
+
+## Constitution
+
+Written in 1787 by James Maddison.
+
+1. Is a living document. It can be added to and removed from at any time.
+
+## The Three Branches of Legislation
+
+ALL of these branches have checks and balances for each other.
+
+### Executive
+
+The President is part of this branch
+
+- Enforces Laws
+
+### Legislative
+
+The Senate, and the House of Representitives
+
+- Creates Laws
+
+### Judicial
+
+- The Supreme Court
+  a. The 9 justices server for life, or until you resine.
+- Interprets Laws
+
+## The Washington Presidency
+
+1. George Washington was the electoral college's unanimous choice for president with John Adams as vice president
+1. Washington took the very first oath of office on April 30, 1789
+1. Washington's appointment to his cabinet were as follows:
+
+- Secretary of State: **Thomas Jefferson**
+- Secretary of the Treasury: **Alexander Hamilton**
+- Secretary of War: **Henry Knox**
+- Attorney General: **Edmund Randolph**
+
+### Economic Policy
+
+Hamilton's Financial Plan:
+
+1. National government would assume the war debts of the states
+1. High tarrifs on imports to protect domestic goods
+1. Create a national bank
+
+- Supported by northern merchants who would benefit from the high tarrifs
+- Opposed by Thomas Jefferson and the Anti-Federalists who viewed the program as only helping the ridch and not supportive of the farmers
+- A modified version of the plan with lower tariffs was eventually passed by congress.
+
+### Foreign Policy
+
+#### The French Revolution:
+
+- The United States was still technically an ally of the French monarchy however, they identified with the cause of the revolutionaries. However, most did not agree with the mob hysteria and mass executions. Jefferson strongly advocated for helping the French revolutionaries.
+
+#### Proclamation of Neutrality 1793:
+
+- Washington was worried that the new nation could not handle engaging in war, he proclaims neutrality
+
+#### British Impressment:
+
+- The British navy had begun the practice of seizing American merchant ships and forcing the men abord to serve in the British navy
+
+### Domestic Concerns
+
+- The Whiskey Rebellion 1794:
+
+  1. In an effort to make up for money lost from the tariffs that were lower than Hamilton originally proposed, he passed excise taxes, specifically on whiskey
+  1. Farmers in Pennsylvania refused to pay the tax and instead attacked the tax collectors
+  1. Washington responded by sending 15,000 troops to put down the revellion, which happed quickly
+  1. This was the first opportunity for the new federal government to assert its authority over the states
+
+- New states added under Washington:
+  1. 1791-Vermont
+  1. 1792-Kentucky
+  1. 1796-Tennessee
+
+#### Washingtons Farewell
+
+1. In the last year of his second term, Washington announced that he intended to retire to private life
+
+1. He wrote a Farewell Address for the American people that was circulated in the newspapers. It contained the following warnings:
+
+- Dont get involved in European affairs
+- Dont make permanent alliances
+- Dont form political parties
+- Dont fall into sectionalism
+
+1. The two-term tradition of presidencies was one of the most impactful legacies of George Washington
+
+## Republican Motherhood
+
+- Philadelphia Ladies Association:
+
+  1. Led relief efforts, raised funds, and cared for the Continental Army during the Revolution
+  1. Inspired similar organizations in other states
+
+- Republican Motherhood:
+  1. Women should be educated in virtues and democratic values and should pass this patriotic knowledge onto their children while men worked outside the home
+
+## Election of 1796
+
+Democratic Republican - Thomas Jefferson
+
+Vs.
+
+Federalist - John Adams
+
+> John Adams won by three electoral votes and Thomas Jefferson became the vice president
+
+### Adams Presidency
+
+Went bad.
+
+1. Determined to maintain neutrality in foreign affairs as the precedent set by Washington
+1. Angered by the Jay Treaty, the French began to attack American Ships
+1. XYZ Affair: Adams sent three diplomats to negotiate with France but the French refuesed to see them unless they paid a bribe first
+1. Alien and Sedition Acts:
+
+- Increased residency requirements to become a citizen from 5 to 14 years
+- Gave the president power to detain or deport suspected noncitizens
+- Limited freedom of speech by criminalizing criticizing the federal government
