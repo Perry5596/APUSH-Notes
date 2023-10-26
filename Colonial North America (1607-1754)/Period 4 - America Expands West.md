@@ -61,3 +61,44 @@
   1. Stronger claims to Oregon territory
   1. Better relations with America Indians
   1. More accurate maps and land routes for future settlers
+
+## The Marshall COurt
+
+- Although the Democratic-Republicans swept the other two branches of governemnt, Federalist judges were still serving on the Supreme Court
+
+- John Marshall: Appointed heif justice of the Supreme Court in the last few months of Adams' presidency. He was a Federalist and decided a lot of landmark cases that strengthened the central govvernment.
+
+- **Marbury vs. Madison 1803**:
+  1. On his way out of office, Adams appointed several federal judges referred to as his "midnight appointments"
+  1. Jefferson refused for these judges to be commissioned; one of them, Marbury, sued.
+  1. Ultimately, the case stablished **JUDICIAL REVIEW**-- the Supreme Court's power to review the constitutionality of laws.
+
+## Aaron Burr
+
+Formerly vice president, Aaron was not nominated for a second term as vice president during Jefferson's reelection. Burr then led an unsuccessful conspiracy for the New England states to secede from the Union. In 1804, Burr challenged his political rival, Alexander Hamilton to a duel where he fatally shot him. Hamilton was the last great leader of the Federalists. The Federalists will never regain power.
+
+## The Madison Presidency
+
+**The War of 1812**
+
+Causes:
+
+1. Continued violation of US Neutral rights at sea.
+
+   a. The British and the French were locked into war with each other and the British failed to recognize US neutrality and captured American sailors.
+
+1. Conflict with the British on the western fronteir.
+
+   a. British aided Native Americans o the western fronteir against American settlers.
+
+- War Hawks: Democratic-Republicans in Congress who were eager to go to war with Britain to defend American honor; led by **John C. Calhoun** and **Hery Clay**
+
+The British refused to comply and the war hawks finally persuaded Madison to declare war in June 1812.
+
+Americans sought land in Canada and to once again force the British from North America
+
+In 1814, Napoleon had been defeated and forced into exile which allowed the British to focus on the war in America
+
+January 1815, **Andrew Jackson** led a decisive victory at the Battle of New Orleans although a peace treaty had been signed two weeks earlier
+
+**Treaty of Ghent**: Peace treaty signed on Christmas Eve 1814; neither side gained territory.
