@@ -93,12 +93,92 @@ Causes:
 
 - War Hawks: Democratic-Republicans in Congress who were eager to go to war with Britain to defend American honor; led by **John C. Calhoun** and **Hery Clay**
 
-The British refused to comply and the war hawks finally persuaded Madison to declare war in June 1812.
+Effects of the war:
 
-Americans sought land in Canada and to once again force the British from North America
+- The British refused to comply and the war hawks finally persuaded Madison to declare war in June 1812.
 
-In 1814, Napoleon had been defeated and forced into exile which allowed the British to focus on the war in America
+- Americans sought land in Canada and to once again force the British from North America
 
-January 1815, **Andrew Jackson** led a decisive victory at the Battle of New Orleans although a peace treaty had been signed two weeks earlier
+- In 1814, Napoleon had been defeated and forced into exile which allowed the British to focus on the war in America
 
-**Treaty of Ghent**: Peace treaty signed on Christmas Eve 1814; neither side gained territory.
+- January 1815, **Andrew Jackson** led a decisive victory at the Battle of New Orleans although a peace treaty had been signed two weeks earlier
+
+- **Treaty of Ghent**: Peace treaty signed on Christmas Eve 1814; neither side gained territory.
+
+Dolley Madison saved art work when the whitehouse burned down. She haunts the whitehouse to this day.
+
+The War's Legacy
+
+- Although the US did not gain any of its original claims for war, there were some important lasting impacts:
+  1. US gained respect for surviving two wars agains Great Britain
+  1. US accepted that canada would remain a part of the British Empire
+  1. Final decline of the Federalist party
+  1. War hero Andrew Jackson would soon be at the forefront of politics
+  1. Rise in nationalism and a desire to expand westward
+
+# Nationalism & Economic Development - 1816-1848 - "An era of good feelings"
+
+## The Monroe Presidency
+
+The Era of Good Feelings
+
+- A victory over the British for independence followed by a percieved second victory in the War of 1812, lead to a sharp increase in nationalism
+- In the election of 1816, Monroe defeated the Federalist candidate by a landslide and by 1820, the Federalist party had dissolved. Leaving the country in a temporary period of one party rule.
+- Under Monroe, the US gained Spanish Florida, agreed on the Missouri Compromise, and adopted the Monroe Doctrine
+
+## The Rise of Nationalism
+
+Cultural Nationalism:
+
+- A new generation of young people, who considered themselves proud Americans, rather than European descendents had come of age to vote. They were optimistic and eager to expand westward.
+- There was an increase in patriotic art and statues depicting war heroes
+- Expanding public school systems embraced patriotic themes while teaching the nation's youth
+
+Economic Nationalism:
+
+- This era is characterized by a series of internal improvements to America's infrastructure by creating roads and canals as well as protecting American industries from European competition
+- Henry Clay's American System:
+
+  1. Protective tariffs:
+
+     a. To protect American industry and raise revenue
+
+  1. A National Bank:
+
+     a. To keep the system running smoothly
+
+  1. Internal Improvements
+
+     a. To promote growth in the west and south
+
+- President Monroe did not think the Constitution gave the federal government power to fund roads therefore the infrastructure as up to the states to fund themselves.
+
+## Monumental Marshall Court Cases
+
+All of the following cases expanded the role of the Federal Government. All under chief justice John Marshall
+
+1. Fletcher vs. Peck (1810)
+1. Martin vs. Hunter's Lease (1816)
+1. McCulloch vs. Maryland (1819)
+1. Cohens vs. Virginia (1821)
+1. Gibbons vs. Ogden (1821)
+
+## Westward Expansion
+
+Motivation:
+
+- Acquisition of American Indian Land
+
+  1. After the 1812 War, large areas of Native American land was open for settlement
+
+- Economic Pressures
+
+  1. Southern tobacco needed new fertile soil to replace the soil exhausted by years of farming
+
+- Improved Transportation
+
+  1. Settlers had easier routes west with the development of roads, canals, steamboats, and railroads.
+
+- Immigration
+
+  1. More Europeans were attracted to the American west for the prospect of cheap land
