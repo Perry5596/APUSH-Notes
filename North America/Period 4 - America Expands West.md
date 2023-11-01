@@ -182,3 +182,46 @@ Motivation:
 - Immigration
 
   1. More Europeans were attracted to the American west for the prospect of cheap land
+
+## Foreign Affairs
+
+After the war of 1812, the United States adopted a more aggressive approach to its foreign policy.
+
+**Florida**:
+
+Although a territory of Spain, there was not a lot of oversight and therefore groups of Seminole, runaway slaves, and outlaws found refuge in Florida.
+
+- General Andrew Jackson was given the task of pursuing raiders in Florida. Eventually he captured Pensacola and drove out the Spanish governor.
+- Adams-Onis Treaty 1819:
+  1. The Spanish turned over all of its possessions in Florida in exchange for $5 million in addition to relinquishing claims to Texas
+
+## The Missouri Compromise
+
+Expanding west meanth the issue of slavery continued to rise to the surface and debates arose about whether the institution should be allowed in new states and territories.
+
+- 1819: The missouri Territory applied for statehood which sparked a heated debate
+- There was an 11 free, 11 slave state balance in the Senate
+- Henry Clay's Compromise:
+  1. Admit missouri as a slave holding state
+  1. Admit Maine as a free state
+  1. Prohibit slavery in the rest of the Louisiana Territory above the 36'30 line of latitude
+- This compromise swept the issue under the rug for the next 30 years
+
+## The Monroe Doctrine
+
+After the fall of Napoleon in 1815, there was a restoration of manarchies in Europe and a decline in republicanism
+
+The Doctrine 1823:
+
+- Monroe declared that colonization in the western hemisphere by any European nation was unwelcome
+- The United States opposed any attempt of a European nation to interfere with a republic in the western hemisphere
+
+## Population Growth
+
+- Between 1800-1825, the US population DOUBLED
+- Very High Birth Rate
+- After 1830, there was also an influx of immigrants from Europe
+
+# A Growing Nation & The Market Revolution - 1816-1848
+
+Going from hand made goods and home to mass production of goods in factories.
