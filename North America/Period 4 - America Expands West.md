@@ -224,4 +224,66 @@ The Doctrine 1823:
 
 # A Growing Nation & The Market Revolution - 1816-1848
 
-Going from hand made goods and home to mass production of goods in factories.
+Going from hand made goods at home to mass production of goods in factories.
+
+## Causes of the Market Revolution
+
+- Invention and Innovation
+- Farm Specialization
+- Growth of Cities
+- Industrialization
+
+## Population Growth and Westward Expansion - STATS
+
+- Birth Rate, Increase
+- Conflict in the west, Decrease
+- Transportation technology, Increase
+- Industry and Industrial, Increase
+- Farmland in the west, Increase
+
+## Innovation in Transportation
+
+- Roads: Due to Democratic-Republican leadership taht wouldn't allow the spending of Federal funds on road systems, each state funded their own roads and therefore roads that went across state lines were rare
+
+  1. The one exception was the Cumberland Road or National Road that edxtended from Maryland to Illinois
+
+- Canals: Waterways proved much easier to transport goods than over land. The construction of the Erie Canal in New York in 1825 sparked the construction of canals all across the country to link western farms and eastern cities.
+
+- Steamboats: The first steam engine was developed by Robert Fulton. The first successful steamboat voyage was completed in 1807 on the Hudson River. This technology made shipping both cheaper and faster.
+
+- Railroads: The most reliable link between the west and the east was railroads. The first US railroad lines were built in the 1820s and expanded rapidly. The railroad transformed small western towns like Cleveland, Detroit, and Chicago into booming commercial centers.
+
+## Growth of Industrhy
+
+- Mechanical Invetions: Increased protection for inventors provided by patent laws inspired rapid growth in inventions and innovations
+  1. Eli Whitney's cotton gin
+- Factory System: Samuel Slater, an immigrant from Great Britain, created factories in the US that were modeled after british cotton-spinning machines
+  1. Availability of waterways allowed the factories in New England to flourish
+- Labor: Factory owners had a hard time finding workers because they couldn't compete with the cheap farm land available in the West
+  1. Majority of workers were women and children
+
+## Commercial Agriculture
+
+- In the 1800s, agriculture shifted from a means to provide necessary nutrients and became a more commercial enterprise.
+  1. Canals and railroads opened new markets
+- Cotton:
+  1. Prior to the invention of the cotton gin, the most popular cash crops in the south were indigo and rice
+  1. After the invention of the cotton gin, planters found cotton to be more profitable
+- This led to an increase in dependance on slave labor.
+
+## Effects of the Market Revolution
+
+- Standard of Living goes up
+- Women entered the work force
+- Economic and Social Mobility
+- Slavery increased dramatically
+
+## European Immigration
+
+There was a surge in immigration from 1830-1860 as a result of these factors:
+
+1. Inexpensive ocean transportation
+1. Famines and political unrest in Europe
+1. Reputation of the United States as offering economic opportunity and political freedom
+
+Irish, Germans were the two greatest immigraters. 2m from Ireland and over 1m from Germany.
