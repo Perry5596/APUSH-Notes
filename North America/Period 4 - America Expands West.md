@@ -287,3 +287,108 @@ There was a surge in immigration from 1830-1860 as a result of these factors:
 1. Reputation of the United States as offering economic opportunity and political freedom
 
 Irish, Germans were the two greatest immigraters. 2m from Ireland and over 1m from Germany.
+
+## Sectionalism
+
+The idea of sectionalism is the idea that you are more loyal to a particular region rather than the country as a whole.
+
+The NORTH is almost 2x the population of the SOUTH even thoguh their land mass is much smaller.
+
+### The NORTH
+
+North of the 36-30 line and East of the Mississippi.
+
+- States were bound together by transportation routes
+- The most populous region of the US
+- Made up of two parts: the industrial northeast and the agricultural northwest
+
+#### Industrial Northeast (New England and Middle Atlantic States)
+
+- Common problems of low pay, long working hours, and unsafe working conditions
+- Increased immigration from farms to urban areas for factory jobs
+- Rapid growth of cities meant expansion of slums
+- African Americans were allowed freedom in the North but still were deprived of political economic or political equality.
+
+#### The Agricultural Northwest (The states from Ohio to Minnesota)
+
+- Made up of states west of Alleghenies: Ohio, Indiana, Illinois, Michigan, Wisconsin, and Minnesota
+- Largely unsettled until connected by canals and railroads
+- Crops of corn and wheat were the most profitable
+- Biggest cities laid along waterways or the Great Lakes: Chicago, Cincinnati, St. Louis
+
+### The SOUTH
+
+- The states that permitted slavery formed a distinctive region
+- By 1861, the region contained 15 states; 11 of which would seced during the Civil War
+
+#### Slavery
+
+- Wealth in the south was measured in terms of land and amount of slaves
+- From 1800 to 1860, the slave population increased from 1m to 4m due to the cotton boom
+- Conditions varied from plantation to plantation however all were deprived of freedom and liberty and most often treated brutally
+- Two major slave uprisings: Denmark Vesy in 1822 and Nat Turner in 1831 were quickly suppressed but had a lasting impact
+
+#### King Cotton
+
+- The development of textile mills in England and the development of the cotton gin made cotton cloth affordable
+- England relied on the southern United States for its cotton supply
+- Originally grown only in South Carolina and Georgia, as demand increased, planters moved westward to Alabama, Mississippi, Louisiana, and Texas
+
+#### White Society
+
+- Southern whites observed a strict hierarchy among themselves; aristocratic planters were at the top and poor farmers at the bottom
+- The rich planters maintained power by dominating state politics in favor of slavery
+- 3/4 of the population owned no slaves and were subsistence farmers; often called "white trash" or "hillbillies"
+- Largely agricultural, there were not very many large cities; New Orleans was the largest
+
+### The WEST
+
+- The area defined as the "west" kept evolving as the US expanded westward
+- By the 1800s, the west was referred to the land west of the Mississippi River
+
+#### American Indians
+
+- By the 1850s, the majority of American Indians had moved west of the Mississippi by force or by treaty
+- THe horse revolutionized life on the plains, allowed mobillity to follow buffalo and made it easier to move away from advancing settlers
+
+#### White Settlers
+
+- Settlers worked hard from sunrise to sunset and usually lived in primitive log cabins
+- Frontier women worked alongside their husbands in addition to being teacher, doctor, seamstress, and cook; short lifespan
+- With little understanding of the environment, soil was quickly depleted of nutrients
+
+#### The Frontier
+
+- The same forces that had brought the original colonists to the Americas inspired their descendents to move westward: it represented a fresh start
+- Mountain Men: settlers in the Rocky Mountains who trapped for furs and guided settlers across the mountains en route to California or Oregon
+
+# The age of "Old Hickory" Andrew Jackson - 1824-1844
+
+## The End of Good Feelings
+
+- Four candidates from the Democratic-Republican party ran for the presidency
+- Jackson won the popular vote but didn't have enough electoral votes for the majority so it went to the house of representatives to decide
+- Henry Clay persuaded the House to vote for John Q. and then was appointed as Secretary of State
+
+## The Nullification Crisis
+
+- "Tariff of Abomination" was passed to help northern manufactures but harmed southern planters
+- South Carolina, led by John C. Calhoun, declared the law nullified and refused any tariffs to be collected in the state
+- Jackson issued a prooclamation that nullification was treason asked for Congressional support to send troops to South Carolina
+- These actions led to a compromise for a lower tariff
+
+## The Two-Party System
+
+The one-party system during Monroe's Era of Goood Feelings had given way to a two-party system under Jackson.
+
+### The Whigs:
+
+- Supported a National bank, Federal funds for internal improvement, and protective tariffs
+- Concerned about immigration
+- Supporters: New England States, Protestants of English heritage, urban professionals
+
+### The Democrats:
+
+- Supported local rule, limited government, free trade, opportunity for white males
+- Concerned with monopolies, the national bank, and high tariffs.
+- Supporters: the South and West urban workers
