@@ -115,3 +115,129 @@ The ruling was favorable among Southern Democrats but infuriated Northern Republ
 - 1859: John Brown, with 25 men, kaunched an armed assault on the federal arsenal at Harpers Ferry
 - They were all either captured or killed by the US army; Brown was captured and sentenced to death
 - Ultimately, the event further polarized the nation.
+
+## The Election of 1860
+
+- Abraham Lincoln
+  1. Republican, Prohibits slavery in territories, contain slavery to where it exists.
+- Stephen Douglas
+  1. Democrat, Opposes federal slave code in territories, support popular sovereignty
+- John Breckinridge
+  1. Democrat, Support federal slave code in territories, support popular sovereignty
+- John Bell
+  1. Constitutional Union, Avoid the slavery issue and keep the country united
+
+## Secession of the Deep South
+
+Although the Republicans controlled neither congress nor the Supreme Court, the election of Lincoln to the presidency sparked secession in the South
+
+A convention in South Carolina unanimously votes to secede
+
+Within the next six weeks, Georgia, Florida, Alabama, Mississippi, Louisiana, and Texas, also secede
+
+Representatives from each of the seceded states met and created the Confederate States of America
+
+## Lincoln's Inaugural Address, 1861
+
+"In your hands, my dissatisfied countrymen, and not in mine, is the momentous issue of civil war."
+
+# The Civil War - 1861-1865
+
+## And Then War Came
+
+The Siege of Fort Sumter
+
+- US naval base off of the coast of Sotuh Carolina
+- After South Carolina's secession, the US tropps at the base were blockaded
+- Lincold attempts to send provisions to the troops stationed there and the southern militia's fire in return
+- After 34 hours of fighting, the US tropps surrender and the Confederacy occupies the fort
+- And the Civil War begins...
+
+## Overview:
+
+### The NORTH:
+
+- Leader: President Lincoln
+- General: Ulysses S. Grant
+- Advantages:
+  1. More organized government
+  1. Higher population
+  1. economically diverse and self-sufficient
+
+### The SOUTH:
+
+- Leader: Jefferson Davis
+- General: Robert E. Lee
+- Advantages:
+  1. High troop morale
+  1. Long coastline difficult to blockade
+  1. defensive war rather than offensive
+
+## Civil War Timeline - Important Events
+
+- 1861 - Secession
+
+  1. 7 Southern States Secede: S. Carolina, Georgia, Mississippi, Alabama, Florida, Louisiana, Texas
+
+- April 12, 1861 - Ft. Sumter
+
+  1. Listed above
+
+- April 15, 1861 - US Troops
+
+  1. Lincoln calls for 75,000 troops to put down the southern rebellion
+
+- April 1861 - 2nd Wave of SECESSION
+
+  1. After Lincoln deploys troops, Virginia, N. Carolina, Tennessee, and Arkansas Seceed.
+
+- July 1861 - First Battle of Bull Run
+
+  1. Southern victory that changed public opinion that the war would not be quick or easy.
+
+- September 1862 - Battle of Antietam
+
+  1. A Union victory that gave Lincoln the confidence to issue the Emancipation Proclamation
+
+- January 1863 - Emancipation Proclamation
+  1. Lincoln declared that all enslaved people would be "then, thenceforward, and forever free."
+- July 4, 1864 - Vicksburg
+  1. Union forces gain control of the Mississippi river and cut Texas, and Louisiana, and Arkansas off from the rest of the Confederacy
+- July 1863 - Gettysburg
+  1. Bloodiest battle in American history; 50,000 lives lost in 3 days; Confederacy was forced to retreat and never again gained the offensive
+- Febuary 1865, Sherman's March
+  1. General William Sherman and his troops marched through the South destroying everything in their path
+- April 9, 1865 - Surrender at Appomattox
+  1. General Lee was forced to surrender to General Grant at the Appomattox Courthouse
+- April 14, 1865 - Assassination
+  1. President Lincoln is assassinated by a Confederate sympathizer, John Wilkes Booth at Ford's Theater
+
+## The Civil War
+
+### Economic
+
+- The war was extremely costly and led to further national debt and inflation
+- Workers wages in Northern Factories did not keep up with inflation
+- However, production increased and sped up the North's manufacturing businesses and would eventually transform America into a complex industrial society
+- The Homestead Act of 1862: Offered land on the Great Plains free of charge in return for families settling there
+- The Pacific Railway Act 1862: Authorized the building of a transcontinental railroad
+
+### Social
+
+- The two groups most affected socially by the war were women and African Americans
+- Women: Played a critical role in filling jobs left behind by their husbands during battle; in addition women were prominent on the battlefield as nurses; the jobs in the medical field would remain for women when the war was over
+- African Americans: Although those born into slavery and their descendents would continue to endure political and economic hardship , the end of slavery was a momentous step in addition to constitutional protections
+
+### Constitutional Ammendments
+
+- 13th Ammendment: Abolished Slavery
+- 14th Ammendment: Granted all people born in the US citizenship rights and due process of the law
+- 15h Ammendment: granted voting rights to all men regardless of race
+
+## Johnson Impeachment
+
+- Congress passed Tenure of Office Act
+  1. Prevented the president from removing people from federal office without the approval of the Senate
+- Johnson did it anyway
+- The house responded by impeaching Johnson for the first time in American History
+- 1868: After a three month trial, the Senate was ONE vote short of the required 2/3 vote to remove Johnson from office
