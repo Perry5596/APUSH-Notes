@@ -191,3 +191,160 @@ By 1900, the United States was the leading industrial power in the world. What f
   1. rich were successful because they were more evolved
   1. helping the poor would harm society by preserving the “unfit”
   1. used as a justification for racial inequality
+
+## Women at Work
+
+- Women and children were considered low-skilled employees who would take low wages
+- Unmarried women often worked to support themselves but married women also often worked out of necessity ofr a minimal standard of living
+  1. 75% of women under 25yo
+  1. Immigrants or daughters of immigrants
+  1. Male avg anual salary: $597
+  1. Female avg anual salary: $314
+
+## Children at Work
+
+- 1.7 million children under 16 were employed in US factories by 1900
+- Children were often pressed into jobs out of necessity to supplement family income or as an alternative to sending the mother to work
+- Long shifts lead to high rates of injury and disease
+- Although some states tried to regulate by setting minimum age to 12, most employers ignored the laws
+
+## The Rise of Industrial America
+
+**By 1900, the US was the leading industrial power in the world. WHat factors contributed to this growth?**
+
+1. Access to raw materials: coal, iron, copper, lead, timber, oil
+1. An abundant labor supply, supplmeneted by hundreds of thousands of immigrants
+1. The United States was the largest market in the world for industrial goods
+1. Advanced transportation network
+1. The federal government granted more than 440,000 new patents from 1860-1890
+1. Government policy refrained from limiting business operations (laissez-faire)
+1. Talented entrepreneurs emerged during this era
+
+## A Nation Of Immigrants
+
+1850: 23.2M population.
+1900: 76.2M population.
+
+Of the 53M population gained, 16.2M were immigrants from Europe.
+
+### Push Factors
+
+- Poverty and uncertain employment
+- War or violence
+- Political Tyranny
+- Religious oppression
+- overcrowding
+
+### Pull Factors
+
+- Plentiful and inexpensive land
+- Large job market
+- Higher standard of living
+- Democratic Government
+- Opportunity for social advancement
+
+## "Old" and "New" Immigrants
+
+- Before 1890:
+  1. Great Britain, Germany, Scandinavia
+  1. Protestant
+  1. English Speaking
+  1. Higher rates of literacy
+- After 1890:
+  1. Italy, Greece, Slovakia, Russia
+  1. Roman Catholic, Orthodox, or Jewish
+  1. Poor and Low Literacy
+  1. Unskilled laborers
+
+## Restricting Immigration
+
+- Efforts to restrict immigration were supported by:
+  1. Labor Unions
+  1. Nativists
+  1. Social Darwinists
+- Despite restrictions, 15% of the total population was immigrants.
+
+## Rise of Cities
+
+- Streetcar Cities
+  1. Longer commutes
+  1. Segregated workers by income
+  1. reflected class and ethnicity
+- Skyscrapers
+  1. Upwards, not outwards
+- Ethnic Neighborhoods
+  1. Tenements, 4,000 people in one city block
+  1. Disease
+  1. Pockets of culture
+  1. Settlement Houses
+     a. Hull House, Jane Addams
+
+# The Politics of the Gilded Age 1877-1900
+
+## Political Machines
+
+- Corrupt organizations at the state and local level that manipulated voters with favors, jobs, and services
+- Maintained power through bribery and fear
+- **Tammany Hall**: NY Political machine known for providing for the poor in exchange for votes.
+
+## The Rise of Populism
+
+- 1890: growing discontent with the Republican party in the South and West
+- 1892: the "People's Party" or the populists began to set a platform to combat the economic control of the bankers and trusts
+  1. Direct election of senators
+  1. direct votes for laws
+  1. unlimited coinage of silver
+  1. graduated income tax
+  1. public ownership of big services
+- United lower classes
+
+## Bryan, Democrats, and Populists
+
+- Democrats were divided into "gold" Democrats who supported Cleveland and prosilver Democrats
+- **William Jennings Bryan**: Cross of Gold speed at the Democratic National Convention, wins the nomination
+- Democrats adopted the coinage of silver into their platform
+  1. The Democrats unhappy with these policies likely voted Republican
+
+## Election of 1896
+
+- Democratic: **Bryan**
+  1. Coinage of Silver
+  1. Lower tariffs
+  1. Rights of the farmers/workers
+- Republican: **McKinley**
+  1. Gold Standard
+  1. Supporter of high tariffs
+  1. Financed by Mark Hanna
+
+In the last weeks of the election, higher wheat prices combined with employers threats to shut down factories if Bryan won, harmed his campaign. McKinley wins a decisive victory.
+
+## Impact of the Election of 1896
+
+- Ended the political stalemate
+- Bryan's defeat lead to an era of Republican dominance in the presidency and Congress
+- Shift from a party of "free soil, free men" to the party of business and industry
+- Marked a triumph of urban industrial values over that of the rural ideals set by Jefferson and Jackson
+- McKinley would take the nation out of isolationism and his campaign set the stage for modern political campaigns
+
+# The New South: 1865 - 1900
+
+## Post Civil War South
+
+- Although there was growth of industry in larger cities in the south, it remained largely agricultural
+  1. Nearly all southern industries were controlled by northern business owners
+- Southern workers earned half of the national average salary
+  1. both races barely got by as sharecroppers and farmers
+- Increased cotton production. Lower cotton prices.
+- **Sharecropping**: farmers lease a portion of land from a landowner in exchange for a portion of the crop's profits
+- Crop Liens: farmers borrowed supplies from merchants with a lien on their crops to be paid at the harvest which lead to cyclical poverty
+- George Washington Carver
+  1. Supported diversification of crops
+     a. Peanuts
+     b. Soybeans
+     c. Sweet potatoes
+
+## Segregation
+
+- 1877: North withdrew and left southerners to work out their own social and economic problems
+- "Redeemers": Sothern democratic politicians who favored poliies of segregation, gained political power deepening the racial divide
+- Plessy vs. Ferguson: upheald "separate but equal" which supported a wave of Jim Crow laws
