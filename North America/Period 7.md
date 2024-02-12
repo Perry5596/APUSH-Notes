@@ -138,3 +138,66 @@
   1. National Child Labor Committee passed by 2/3 of the states proved effective keeping kids out of mines and factories.
 - Initiative Referemdum, Recal
   1. Allowed voters to propose laws, vote for the passage of laws, and recall corrupt polititians.
+
+## Conservation
+
+As a lover of wilderness and outdoor life, Roosevelt's most lasting contribution was conservation
+
+1. Federal Reserve Act 1891: Used to protect 150 million acres of land as national reserve
+1. 1908: Helped establish state parks in several states after hosting a White House of Governors
+
+## African Anericans in the Progressive Era
+
+- Booker T. Washington: Tuskegee Institute, stressed the importance of education and economic progress
+- WEB Du Bois: Criticized Washingtonl argued that social and political rights were a prerequisite to economic advancement; established the Niagara Movement in 1905; NAACP in 1988
+- The Great Migration
+  1. Deteriorating race relations in the south
+  1. Destruction of cotton crops by the boll weevil
+  1. Job opportunities when the WWI draft started
+
+# The Wart to End All Wars - 1914-1918 (US joins in 1917)
+
+MAIN
+
+M- Militarism
+A- Alliances
+I- Imperialism
+N- Nationalism
+
+The Primary causes for the outbrake of WWI in Europe
+
+## From Neutrality to Conscription (Military Draft)
+
+- Although proclaiming neutrality, the US was the world's largest industrial producer of war time materials
+- May 7, 1915: Sinking of the Lusitania: Despite a declaration from Wilson, Germany continued to sink unarmed ships
+- January 1917: Zimmerman Note Intercepted
+- Aprli 6, 1917: US declares war on Germany
+- May 18, 1917: Selective Service Act
+- American Expeditionary Forces commanded by General John Pershing
+
+## The Lasting Impacts
+
+- The first "modern" war; new weaponry, new destruction
+  1. Trenches
+  1. Chemical Weapons
+  1. Tanks
+  1. Artillery
+  1. Submarines
+- Armistice Day: 11th hour, 11th month, 11th day
+- Wilson's 14 points: aimed at "peace without victory" and the creation of a league of nations
+  1. Rejected by Congress
+- Treaty of Versailles:
+  1. Germany disarmed and stripped of colonies
+  1. Germany must pay reparations to Great Britain and France
+  1. Independence for Eastern European Nations
+
+## How did the war affect Americans?
+
+- Women in the workforce: Women took jobs in factories producing materials for the war
+- War Bonds: People were asked to contribute money to the war effort
+- Rationing: People were asked to conserve materials and food for the war effort
+- Anti-Espionage: Fear of spies increased and talk about the war was discouraged
+- Military Recruitment: Able-bodied men volunteered or were drafted into the war
+
+- The Espionage Act of 1917: Made it illegal to aid the enemy or interfere with the war
+- Schenck vs. United States: Supreme Court case that said that the government could limit free speech if it created a "clear and present danger"
