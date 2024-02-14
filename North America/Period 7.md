@@ -213,4 +213,4 @@ Era of conflict between modernism and traditionalism.
   1. Parades
   1. Hunger strikes
 - First advocated at the state level, suffragists realized that an amendment to the constitution was necessary.
-- 19th Ammendment: Women's support on the homefront in WWI pursueaded Congress to FINALLY pass the amendment in 1920.
+- 19th Ammendment: Women's support on the homefront in WWI pursueaded Congress to FINALLY pass the
