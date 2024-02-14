@@ -201,3 +201,16 @@ The Primary causes for the outbrake of WWI in Europe
 
 - The Espionage Act of 1917: Made it illegal to aid the enemy or interfere with the war
 - Schenck vs. United States: Supreme Court case that said that the government could limit free speech if it created a "clear and present danger"
+
+# The Roaring 20's - 1920-1929
+
+Era of conflict between modernism and traditionalism.
+
+## Women Suffrage Movement
+
+- By 1900 older suffragists such as Susan B. Anthony and Elizabeth Cady Stanton passed the torch to a new generation
+  1. Mass pickets
+  1. Parades
+  1. Hunger strikes
+- First advocated at the state level, suffragists realized that an amendment to the constitution was necessary.
+- 19th Ammendment: Women's support on the homefront in WWI pursueaded Congress to FINALLY pass the amendment in 1920.
