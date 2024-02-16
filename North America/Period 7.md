@@ -17,20 +17,20 @@
 - Since the 1790s, foreign policy was centered around westward expansion
 - Industrialization = more involvement with other nations
 - William H. Seward
-  1. Secretary of State 1861-1869
-  1. Prevented GB and France from entering the Civil War
-  1. Amexed Midway in the Pacific
-  1. Purchased Alaska
+  1.  Secretary of State 1861-1869
+  1.  Prevented GB and France from entering the Civil War
+  1.  Amexed Midway in the Pacific
+  1.  Purchased Alaska
 - "New Imperialism": Access to world markets and raw materials
 - International Darwinism: Extending Manifest Destiny beyond North America
-  1. COmpetition with other nations
+  1.  COmpetition with other nations
 
 ## The Motivators
 
 - Religious: Protestant American missionaries believed that it was their duty to spread Christianity and "superior" civiliaztion
 - Political: Republican party was aligned with big businesses who sought foreign markets, they were eager to build US power
 - Military: Alfred Thayer Mahan, The Influence of Sea Power Upon History (1890), persuaded Congress to finance naval expansion
-  1. By 1900, the US had the 3rd largest navy in the world
+  1.  By 1900, the US had the 3rd largest navy in the world
 - Popular Press: Adventure stories of distant, exotic lands; stimulated public interest in territories elsewhere.
 
 ## The Spanish American War
@@ -47,9 +47,9 @@
 - June-July 1898: American forces invade Cuba, Rough Riders led by Teddy Roosevelt
 - August 1898: Spain asked for US Terms of Peace
 - December 1898: Peace treaty signed in Paris
-  1. Recognition of Cuban Independence
-  1. US Acquisition of Spanish territories of Guam and Puerto Rico
-  1. US paid Spain 20m for Philippines
+  1.  Recognition of Cuban Independence
+  1.  US Acquisition of Spanish territories of Guam and Puerto Rico
+  1.  US paid Spain 20m for Philippines
 
 ## The Philippine Question
 
@@ -73,22 +73,22 @@
 
 - Did Constitutional rights apply to those new territories? Did these colonized have the rights of Americans?
 
-  1. 1901-1903 a series of Supreme Court cases favored imperialists
-  1. Gave congress the power to decide which parts applied
+  1.  1901-1903 a series of Supreme Court cases favored imperialists
+  1.  Gave congress the power to decide which parts applied
 
 - Platt Amendment Regarding Cuba:
-  1. Never sign a treaty with a foreign power
-  1. US could intervene to preserve independence
-  1. Allow US to have permanent naval base
+  1.  Never sign a treaty with a foreign power
+  1.  US could intervene to preserve independence
+  1.  Allow US to have permanent naval base
 
 ## The Anti-Imperialist League
 
 - William Jennings Bryan, Mark Twain, Andrew Carnegie
 - Formed in opposition to annexation of the Philippines
 - Various motives:
-  1. Immoral and violated commitment to freedom
-  1. Diluted the American population
-  1. Fear of influx of cheap labor
+  1.  Immoral and violated commitment to freedom
+  1.  Diluted the American population
+  1.  Fear of influx of cheap labor
 
 # The Progressive Era - 1901-1917
 
@@ -110,13 +110,13 @@
 
 - Limiting big business, improving democracy, strengthening social justice, more active role for the federal government
 - Who?
-  1. Protestant church leaders
-  1. African Americans
-  1. Union Leaders
-  1. Feminists
-  1. Urban Middle Class
+  1.  Protestant church leaders
+  1.  African Americans
+  1.  Union Leaders
+  1.  Feminists
+  1.  Urban Middle Class
 - Shift from transcendetalism to pragmatism
-  1. Emphasis on trial and error instead of fixed truth
+  1.  Emphasis on trial and error instead of fixed truth
 - Scientific Management: proposed by Frederick Taylor as a way to find the most efficient way to operate; applied to government
 
 ## The Muckrakers
@@ -133,11 +133,11 @@
 - The Secret Ballot
 - Direct Primaries
 - Direct Election of Senators
-  1. Traditionally chosen by state legislatures.
+  1.  Traditionally chosen by state legislatures.
 - Compilsory Education
-  1. National Child Labor Committee passed by 2/3 of the states proved effective keeping kids out of mines and factories.
+  1.  National Child Labor Committee passed by 2/3 of the states proved effective keeping kids out of mines and factories.
 - Initiative Referemdum, Recal
-  1. Allowed voters to propose laws, vote for the passage of laws, and recall corrupt polititians.
+  1.  Allowed voters to propose laws, vote for the passage of laws, and recall corrupt polititians.
 
 ## Conservation
 
@@ -151,9 +151,9 @@ As a lover of wilderness and outdoor life, Roosevelt's most lasting contribution
 - Booker T. Washington: Tuskegee Institute, stressed the importance of education and economic progress
 - WEB Du Bois: Criticized Washingtonl argued that social and political rights were a prerequisite to economic advancement; established the Niagara Movement in 1905; NAACP in 1988
 - The Great Migration
-  1. Deteriorating race relations in the south
-  1. Destruction of cotton crops by the boll weevil
-  1. Job opportunities when the WWI draft started
+  1.  Deteriorating race relations in the south
+  1.  Destruction of cotton crops by the boll weevil
+  1.  Job opportunities when the WWI draft started
 
 # The Wart to End All Wars - 1914-1918 (US joins in 1917)
 
@@ -178,18 +178,18 @@ The Primary causes for the outbrake of WWI in Europe
 ## The Lasting Impacts
 
 - The first "modern" war; new weaponry, new destruction
-  1. Trenches
-  1. Chemical Weapons
-  1. Tanks
-  1. Artillery
-  1. Submarines
+  1.  Trenches
+  1.  Chemical Weapons
+  1.  Tanks
+  1.  Artillery
+  1.  Submarines
 - Armistice Day: 11th hour, 11th month, 11th day
 - Wilson's 14 points: aimed at "peace without victory" and the creation of a league of nations
-  1. Rejected by Congress
+  1.  Rejected by Congress
 - Treaty of Versailles:
-  1. Germany disarmed and stripped of colonies
-  1. Germany must pay reparations to Great Britain and France
-  1. Independence for Eastern European Nations
+  1.  Germany disarmed and stripped of colonies
+  1.  Germany must pay reparations to Great Britain and France
+  1.  Independence for Eastern European Nations
 
 ## How did the war affect Americans?
 
@@ -209,8 +209,45 @@ Era of conflict between modernism and traditionalism.
 ## Women Suffrage Movement
 
 - By 1900 older suffragists such as Susan B. Anthony and Elizabeth Cady Stanton passed the torch to a new generation
-  1. Mass pickets
-  1. Parades
-  1. Hunger strikes
+  1.  Mass pickets
+  1.  Parades
+  1.  Hunger strikes
 - First advocated at the state level, suffragists realized that an amendment to the constitution was necessary.
 - 19th Ammendment: Women's support on the homefront in WWI pursueaded Congress to FINALLY pass the
+
+## The Modern Era of the 1920's
+
+- Traditionalism vs. Modernism
+  1. Lot's of conflict between both mentalities
+  1. Traditionalism focuses on how women should stay home and raise their children while the men work outside the home and can vote.
+  1. Modernism is focused on women getting educated, working outside the home, and having a vote.
+- Economic Prosperity
+  1. The whole world is in relif now that WW1 is over
+  1. Consiquently, people realized that life is more fragile, so people that survived had a YOLO mentality.
+  1. This YOLO mentality leads people to make poor economic decisions. People are now willing to spend a lot of money to enjoy while they can. This in addition to new inventions that make life more efficient and save time causes this to scale exponentially.
+     i. inventions include: Dishwashers, Refridgerators, Cars, Radios, and many quality of life appliences.
+  1. The credit system is created which causes people who dont have the money to buy things they can't afford. Interest rates are huge, and this was the beginning of a big depression.
+- Prohibition (18th Ammendment)
+  1. Seen as a huge win for the Traditional mentality.
+  1. Prohibition is an ammendment that prohibits the sale, manufacture, or consumption of alcohol.
+  1. Reasoning behind this ammendment was based on crime rates. 90% of crime was commited when drinking or very near a local bar. Traditionalists sought to eliminate the issue through the 18th ammendment.
+  1. Prohibition didn't work. It backfired completly. Alcohol consumption rates increased dramatically.
+  1. Because drinking is now illegal, people got caught drinking which causes crime rates to increase.
+  1. People also pay a premium for alcohol because it is hard to find.
+  1. Gives birth to "Speakeasy Culture" -- Secret bar's -- so people can drink.
+- Republican Control
+  1. The leauge of nations made the democratic party unpopular because they proposed the idea of the Leauge, but then didnt join because they didn't want to be involved in European affairs.
+  1. Republicans controlled the Presidency and Congress.
+  1. The 2 presidents were Warren G. Harding, and Calvin Coolidge.
+- "Return to Normalcy"
+  1. The big push for all of American Society post WW1; the official policy after WW1 was over.
+  1. The government said they would rather return to pre war, issolationist politics rather than permenant European Alliances.
+
+# The Scopes Monkey Trial
+
+- July 1925: Tennesse vs. Scopes
+
+  1. Prosecutor: William Jennings Bryan
+  1. Defense: Clarance Darrow
+
+- Although Scopes lost, this case illustrated the growing tension between fundamentalists and modernists
