@@ -251,3 +251,44 @@ Era of conflict between modernism and traditionalism.
   1. Defense: Clarance Darrow
 
 - Although Scopes lost, this case illustrated the growing tension between fundamentalists and modernists
+
+# The Great Depression - 1929-1939
+
+## So How did This Happen?
+
+- Overspeculation in the stock market. This includes people investing their entire life savings into stocks as people saw it as an easy way to make money.
+- Over-reliance on the credit system. People took loans that they couldn't afford. This caused people to be in huge amounts of debt that they couldn't pay back.
+- Uneven income distribution.
+- Weak farm economy
+
+> October 1929, the stock market crashed.
+
+## The Effects
+
+- By 1933, 13 million people were unemployed. This was a record labor shortage.
+- This ended the Republican domination of national politics. The Democratic party regained superiority in the government.
+- Socially, this was felt by all classes; homelessness skyrocketed in the wave of evictions and foreclosures
+- Out west, farms expierenced the Dust Bowl in addition to the nationwide economic crisis.
+
+## Hoover's Policies
+
+- Hoover believed that prosperity would return organically and that the state and local governments should step in before the federal government.
+- **Hawley-Smoot Tariff (1930)** reduced international trade and caused the world to sink further in the depression
+- Hoovervilles: shanty towns mocking the president's lack of aide.
+
+# Election of 1932:
+
+Republican: Incumbent Herbert Hoover
+vs.
+Democrat: Franklin D. Roosevelt.
+
+Democrat Roosevelt won the executive branch.
+
+## FDR and the New Deal
+
+- Cousin to Theodore Roosevelt and survivor of polio, his wife Eleanor became the most active first lady in history
+- "We have nothing to fear but fear itself"
+  1. Relief for the unemployed
+  1. Recovery for business
+  1. Reform for American economic practices
+- Alphabet Agencies: several of which were created in his first 100 days as president when he called congress into a special session
